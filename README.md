@@ -1,4 +1,3 @@
-# Whitepaper-Soliditor
 Soliditor Whitepaper Guide
 
 Introduction:
