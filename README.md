@@ -23,5 +23,5 @@ To get the most out of the Soliditor Whitepaper, follow these steps:
 •	Engage in discussions with other readers or members of the Soliditor community to share insights and gain a deeper understanding of the platform.
 ________________________________________
 **Conclusion:**
-The Soliditor Whitepaper is a valuable resource for anyone interested in smart contract auditing and DeFi security. By following this guide and thoroughly reviewing the whitepaper, you'll gain a comprehensive understanding of Soliditor's mission, features, and vision for the future of decentralized finance.
+The Soliditor Whitepaper is a valuable resource for anyone interested in smart contract auditing and DeFi security. By following this guide and thoroughly reviewing the whitepaper, you'll gain a comprehensive understanding of Soliditor's mission, features, and vision for the future of smart token audit solutions.
 
